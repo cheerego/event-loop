@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-fs.readFile(__dirname + '/' + __filename, function (err, data) {
+fs.readFile(__filename, function (err, data) {
     if (err) {
         console.error(err);
     }
