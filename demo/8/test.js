@@ -1,9 +1,3 @@
-# Promise
-
-
-* promise.then()的回调在在哪里执行呢？
-
-```javascript
 process.nextTick(function(){
     console.log(7);
 });
@@ -19,6 +13,3 @@ new Promise(function(resolve){
 process.nextTick(function(){
     console.log(8);
 });
-
-```
-
