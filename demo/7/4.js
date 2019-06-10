@@ -1,15 +1,8 @@
-# 30分钟侃侃Node的 Event Loop
+const fs = require('fs');
 
 
-##### 主题：30分钟侃侃Node的 Event Loop
-
-##### 讲述人: 何康宁
-
-
-
-### 目标
-```
-  setImmediate(() => {
+fs.readFile(__filename, function () {
+    setImmediate(() => {
         console.log(1)
         setTimeout(() => {
             console.log(2)
@@ -34,4 +27,4 @@
         })
     })
     console.log(9)
-```
+});
