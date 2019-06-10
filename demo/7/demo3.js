@@ -1,9 +1,9 @@
 const fs = require('fs');
 
 
-fs.readFile('/Users/catchme/Sites/event-loop/readme.md', function (err, data) {
+fs.readFile(__filename, function (err, data) {
     process.nextTick(callNextTick)
-    fs.readFile('/Users/catchme/Sites/event-loop/readme.md',function (err, data) {
+    fs.readFile(__filename, function (err, data) {
         console.log(data.toString());
     })
 });
