@@ -1,4 +1,4 @@
-# 30分钟侃侃Node的事件循环
+# 30分钟侃侃Node的 Event Loop
 
 
 ##### 主题：30分钟侃侃Node的 Event Loop

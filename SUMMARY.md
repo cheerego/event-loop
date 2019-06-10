@@ -12,6 +12,6 @@
     * [NextTick](loop/7.nexttick.md)
     * [Promise](loop/8.promise.md)
     * [Micro与Macro](loop/9.micro与macro.md)
-    * [Exercises](loop/10.exercise.md)
+    * [Exercise](loop/10.exercise.md)
     * [结束语](loop/11.end.md)
 
