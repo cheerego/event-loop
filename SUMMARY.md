@@ -13,4 +13,5 @@
     * [Promise](loop/8.promise.md)
     * [Micro与Macro](loop/9.micro与macro.md)
     * [Exercise](loop/10.exercise.md)
-    * [结束语](loop/11.end.md)
+    * [Target](loop/11.target.md)
+    * [结束语](loop/12.end.md)
