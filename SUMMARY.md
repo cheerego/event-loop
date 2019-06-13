@@ -14,4 +14,5 @@
     * [Micro与Macro](loop/9.micro与macro.md)
     * [Exercise](loop/10.exercise.md)
     * [Target](loop/11.target.md)
-    * [结束语](loop/12.end.md)
+    * [Browser](loop/12.browser.md)
+    * [结束语](loop/13.end.md)
